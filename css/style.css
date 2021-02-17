@@ -39,7 +39,7 @@ body {
 .heder__title {
   max-width: 560px;
   font-family: "Ubuntu", sans-serif;
-  color: white;
+  color: grey;
   font-size: 37px;
   line-height: 1.32em;
   font-weight: 700;
@@ -242,8 +242,7 @@ body {
     width: 100%;
   }
 
-
-.btn.submit_btn {
-  width: 100%;
-}
+  .btn.submit_btn {
+    width: 100%;
+  }
 }
